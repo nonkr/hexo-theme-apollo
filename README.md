@@ -2,8 +2,8 @@
 
 ## 文档
 
-- [中文文档](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-zh.md)
-- [Document](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-en.md)
+- [中文文档](doc/doc-zh.md)
+- [Document](doc/doc-en.md)
 
 ## 贡献
 
